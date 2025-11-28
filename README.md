@@ -5,10 +5,10 @@
 
 ###
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NatanPereira09&theme=gruvbox_light&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanPereira09&layout=compact&theme=gruvbox_light" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-xi-ebon-19.vercel.app/api?username=NatanPereira09&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-xi-ebon-19.vercel.app/api/top-langs/?username=NatanPereira09&layout=compact&theme=dracula" height="150" />
+</p>
 
 ###
 
