@@ -1,74 +1,35 @@
-<h1 align="center">Hi there 👋</h1>
+<h2 align="center">Hi 👋! My name is Natan!</h2>
 
-<p align="center">
-  <b>My name is Natan Pereira Mendes</b><br/>
-  Full-Stack Developer | 3+ years of experience | Brazil 🇧🇷
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 Full-Stack Developer focusing on practical, scalable solutions  
-- 📚 Currently studying Analysis and Systems Development (Unicesumar)  
-- 🔧 Experienced with modern stacks and real-world projects  
-- 🌐 Passionate about building interfaces, APIs and digital products  
-- 🚀 Always learning and improving  
-
----
-
-## 🛠️ Tech Stack
+###
 
 <div align="center">
-
-| Stack |
-|-------|
-| **JavaScript | TypeScript | PHP | Node.js | React Native | JSX | TailwindCSS | MySQL | Git** |
-
-<br/>
-
-<!-- Icons -->
-<img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,react,tailwind,mysql,git" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NatanPereira09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanPereira09&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
-
-## 📊 GitHub Stats
+###
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NatanPereira09&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanPereira09&layout=compact&theme=github_dark&hide_border=true" />
-
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,react,tailwind,mysql,git" />
+  
 </div>
 
----
-
-## 🐍 Contribution Snake
+###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NatanPereira09/NatanPereira09/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://instagram.com/natanmendes09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/natan-pereira-mendes-4548bb220/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
----
+###
 
-## 📬 Contact Me
+<br clear="both">
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/caioxsf/caioxsf/output/snake.svg" alt="Snake animation" />
 
-<a href="https://www.linkedin.com/in/natan-pereira-mendes-4548bb220/" target="_blank">
-  <img height="32" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/natanmendes09/" target="_blank">
-  <img height="32" src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-</div>
-
----
-
-<p align="center">🚀 Built with passion — thanks for visiting!</p>
+###
